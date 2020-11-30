@@ -1,3 +1,3 @@
 # Grafika-uzduotis2-laiptai
 
-Dar nepabaigtas
+V 1.0
